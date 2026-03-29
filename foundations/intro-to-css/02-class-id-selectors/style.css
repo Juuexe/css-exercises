@@ -12,3 +12,17 @@
     font-size: 36px;
 
 }
+
+.adjust-font-size {
+  font-size: 50px;
+}
+
+/* rule 1 */
+#subsection {
+  color: blue;
+}
+
+/* rule 2 */
+.main .list {
+  color: red;
+}
