@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.first-text {
+    color: black;
+    background-color: pink;
+    font: Sans-serif;
+
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+
+}
